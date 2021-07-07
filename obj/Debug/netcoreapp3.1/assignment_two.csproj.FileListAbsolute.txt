@@ -1,0 +1,11 @@
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.exe
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.deps.json
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.runtimeconfig.json
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.runtimeconfig.dev.json
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.dll
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\bin\Debug\netcoreapp3.1\assignment_two.pdb
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\obj\Debug\netcoreapp3.1\assignment_two.csprojAssemblyReference.cache
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\obj\Debug\netcoreapp3.1\assignment_two.AssemblyInfoInputs.cache
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\obj\Debug\netcoreapp3.1\assignment_two.AssemblyInfo.cs
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\obj\Debug\netcoreapp3.1\assignment_two.dll
+C:\Users\hildonw\Desktop\programming  fundmental 2\assignment_two\obj\Debug\netcoreapp3.1\assignment_two.pdb
